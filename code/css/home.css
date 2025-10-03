@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Fira Code";
+  src: url('/usr/share/fonts/TTF/FiraCode-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Fira Code";
+  src: url('/usr/share/fonts/TTF/FiraCode-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+body {
+	background-color: black;
+	color: white;
+	font-family: "Fira Code";
+	text-align: center;
+}
+
+a {
+	font-size: 30px;
+	font-weight: bold;
+}
